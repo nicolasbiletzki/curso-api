@@ -6,7 +6,6 @@ C:\Users\NOTE\source\repos\curso\curso-api\bin\Debug\netcoreapp3.1\curso-api.run
 C:\Users\NOTE\source\repos\curso\curso-api\bin\Debug\netcoreapp3.1\curso-api.runtimeconfig.dev.json
 C:\Users\NOTE\source\repos\curso\curso-api\bin\Debug\netcoreapp3.1\curso-api.dll
 C:\Users\NOTE\source\repos\curso\curso-api\bin\Debug\netcoreapp3.1\curso-api.pdb
-C:\Users\NOTE\source\repos\curso\curso-api\obj\Debug\netcoreapp3.1\curso-api.csprojAssemblyReference.cache
 C:\Users\NOTE\source\repos\curso\curso-api\obj\Debug\netcoreapp3.1\curso-api.AssemblyInfoInputs.cache
 C:\Users\NOTE\source\repos\curso\curso-api\obj\Debug\netcoreapp3.1\curso-api.AssemblyInfo.cs
 C:\Users\NOTE\source\repos\curso\curso-api\obj\Debug\netcoreapp3.1\curso-api.csproj.CoreCompileInputs.cache
@@ -25,3 +24,5 @@ C:\Users\NOTE\source\repos\curso\curso-api\bin\Debug\netcoreapp3.1\Swashbuckle.A
 C:\Users\NOTE\source\repos\curso\curso-api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\NOTE\source\repos\curso\curso-api\obj\Debug\netcoreapp3.1\curso-api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\NOTE\source\repos\curso\curso-api\obj\Debug\netcoreapp3.1\curso-api.csproj.CopyComplete
+C:\Users\NOTE\source\repos\curso\curso-api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\NOTE\source\repos\curso\curso-api\obj\Debug\netcoreapp3.1\curso-api.csprojAssemblyReference.cache

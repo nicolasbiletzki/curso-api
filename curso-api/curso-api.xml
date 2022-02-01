@@ -4,5 +4,12 @@
         <name>curso-api</name>
     </assembly>
     <members>
+        <member name="M:curso_api.Controllers.UsuarioController.Logar(curso_api.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            Este serviço permite autenticar um usuário cadastrado e ativo.
+            </summary>
+            <param name="loginViewModelInput">View Model do login</param>
+            <returns></returns>
+        </member>
     </members>
 </doc>
