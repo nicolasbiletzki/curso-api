@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "0YtyZ5IX/qxbqlC7oK7Wc9H2+dguYe+LRHQSV19dkLcMHVNGEeTTqi0gowPArNJ5yVzx6TMiAUNGfCSWabbwYQ==",
+  "dgSpecHash": "aq468wL/8f4xb79IrYBsEFzizwTzGb8n4cAtamKUJqoxK13WO8nK4jlvYyWhqB5622S16gcnpD1/qjWenFdHYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\NOTE\\source\\repos\\curso\\curso-api\\curso-api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\NOTE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\NOTE\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\NOTE\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\NOTE\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\NOTE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\NOTE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
   "logs": []
 }
