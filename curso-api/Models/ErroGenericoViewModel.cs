@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace curso_api.Models
 {
-    public class ValidaCampoViewModelInput
+    public class ErroGenericoViewModel
     {
         public string Mensagem { get; set; }
     }

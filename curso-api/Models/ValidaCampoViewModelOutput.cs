@@ -5,13 +5,14 @@ using System.Threading.Tasks;
 
 namespace curso_api.Models
 {
-    public class ErroGenericoViewModelOutput
+    public class ValidaCampoViewModelOutput
     {
         public IEnumerable<string> Erros { get; private set; }
 
-        public ErroGenericoViewModelOutput(IEnumerable<string> erros)
+        public ValidaCampoViewModelOutput(IEnumerable<string> erros)
         {
             Erros = erros;
         } 
     }
 }
+
